@@ -16,15 +16,15 @@ user can pause game by pressing "p" and unpause by doing the same. Stops all mov
 **- give user menu option to select various levels (10)**
 added menu to choose what level of difficulty 
 
-    - easy - like it is
-    - 
-    - medium - monkey moves around the edges
-    - 
+**    - easy - like it is**
+    - added
+**    - medium - monkey moves around the edges** 
+    - added
   **- harder - monkey moves randomly around the edges (5)**
-on menu choice by not available
+on menu choice but not available
 
   **- hardest - monkey moves randomly in any direction (10)**
-on menu choice by not available
+on menu choice but not available
 
   **- insane - allow multiple monkeys (10)**
 on menu and adds multiple monkeys/animals
