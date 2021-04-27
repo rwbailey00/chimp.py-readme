@@ -4,7 +4,7 @@ chimp.py readme
 **- make screen bigger (5)**
 increased screen size to 900,700
 **- make monkey move around the outter edges of the window (10)**
-\nmade monkey move around screen edges by introducing top and bottom value checks, same as left or right
+made monkey move around screen edges by introducing top and bottom value checks, same as left or right
 **- keep score (hits and misses) and display on the screen cleanly and clearly - your design (10)**
 added score board that tracks if you hit an animal or miss an animal in the top left
 **- allow user to pause the game (5)**
