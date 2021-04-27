@@ -46,4 +46,4 @@ https://freesound.org/browse/**
 added cool jungle music
 
 **- add your own new feature to the game; more complex and engaging the more points (0 - 20)**
-added funny/troll feature, have been busy this week so I wanted to laugh and make the user laugh :) (if you don't understand the joke google it)
+added funny/troll feature, have been busy this week so I wanted to laugh and make the user laugh :) MAKE SURE TO CLOSE TERMINAL TO END FEATURE (if you don't understand the joke google it)
